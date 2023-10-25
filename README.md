@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C, Lua, Bash
 - 📫 How to reach me : Don't
 
-[![My Skills](https://skillicons.dev/icons?i=c,lua,arduino,py,html,css,bash,git,latex,regex,linux,neovim,vim,vscode,sketchup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,lua,arduino,py,html,css,bash,git,latex,regex,linux,neovim,vim,vscode,sketchup)](https://github.com/Galactic-Kitchen/)
 
 
 
