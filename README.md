@@ -5,7 +5,7 @@
 - 🌱 I'm perfecting my skills in : Lua, Scilab, UML
 - 🗣️ I know how to speak english and french
 - 🐧 I use Arch btw
-- 📫 How to reach me : Checkout this [![: My linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/maxence-raymond)
+- 📫 How to reach me : [Click here](https://linkedin.com/in/maxence-raymond)
 
 [![My Skills](https://skillicons.dev/icons?i=arch,windows,c,lua,arduino,py,html,css,js,php,mysql,bash,py,java,git,github,regex,linux,vim,vscode,md,sketchup)](https://github.com/Galactic-Kitchen/)
 
